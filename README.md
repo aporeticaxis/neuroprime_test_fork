@@ -1,4 +1,4 @@
-# NeuroPrime
+# Neuroprime MacOS fork
 
 <div align="center">
   
@@ -7,28 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-00ff00.svg)
 ![Framework](https://img.shields.io/badge/Framework-Gradio-00ff00.svg)
 
-🧠 A 90s "hackerz" themed ChatGPT-like interface that unlocks advanced reasoning frameworks for deeper AI interactions
-
-</div>
-
-NeuroPrime combines nostalgia with cutting-edge AI capabilities, allowing you to dynamically select optimal reasoning strategies before sending queries to large language models. The app features a retro cyberpunk aesthetic with modern functionality, letting you combine two complementary reasoning frameworks to get more insightful responses from any OpenRouter-supported model.
-
-## ✨ Features
-
-- 🕹️ **Retro 90s "hackerz" UI** with scanlines, glitch effects, and terminal-inspired design
-- 🧠 **Dynamic reasoning framework selector** that mixes two complementary approaches for enhanced results
-- 🔐 **Encrypted API key storage** and model management system
-- 📸 **Image upload support** for multimodal models
-- 🌐 **Works with any OpenRouter-supported model**
-- 🍎 **Native macOS application** with proper app bundle and system integration
-
-## 🚀 Installation
-
-### Prerequisites
-
-- macOS 11.0 (Big Sur) or later
-- Internet connection for accessing OpenRouter API
-- Python 3.10+ installed (use the official Python.org installer for best compatibility)
+[Neuroprime MacOS fork]
 
 ### Quick Start
 
