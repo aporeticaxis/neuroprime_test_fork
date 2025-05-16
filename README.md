@@ -1,6 +1,4 @@
 # Neuroprime MacOS fork
-
-<div align="center">
   
 ![NeuroPrime Logo](https://img.shields.io/badge/Neuro-Prime-00ff00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBmZjAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9ImZlYXRoZXIgZmVhdGhlci1icmFpbiI+PHBhdGggZD0iTTkgMy42djQuMkg2LjVhMi41IDIuNSAwIDAgMCAwIDVoNS41Ij48L3BhdGg+PHBhdGggZD0iTTE1IDMuNnY0LjJoMi41YTIuNSAyLjUgMCAwIDEgMCA1SDE1Ij48L3BhdGg+PHBhdGggZD0iTTEyIDMuNnYxNi44Ij48L3BhdGg+PHBhdGggZD0iTTcgMTUuMmg0LjQiPjwvcGF0aD48cGF0aCBkPSJNMTcgMTUuMmgtMi44Ij48L3BhdGg+PHBhdGggZD0iTTggMTkuOGg4Ij48L3BhdGg+PC9zdmc+)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
