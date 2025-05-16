@@ -30,20 +30,9 @@ NeuroPrime combines nostalgia with cutting-edge AI capabilities, allowing you to
 - Internet connection for accessing OpenRouter API
 - Python 3.10+ installed (use the official Python.org installer for best compatibility)
 
-### Quick Start - macOS
+### Quick Start
 
-1. Download the latest release from the repository:
-   ```
-   https://github.com/aporeticaxis/neuroprime_test_fork/releases
-   ```
-
-2. Mount the DMG installer by double-clicking it
-
-3. Drag NeuroPrime into your Applications folder
-
-4. Launch the app from Launchpad or Applications folder
-
-### Building from Source (for developers)
+### Building from Source
 
 1. Clone the repository:
    ```bash
