@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-00ff00.svg)
 ![Framework](https://img.shields.io/badge/Framework-Gradio-00ff00.svg)
 
-[Neuroprime MacOS fork]
+Neuroprime MacOS fork
 
 ### Quick Start
 
